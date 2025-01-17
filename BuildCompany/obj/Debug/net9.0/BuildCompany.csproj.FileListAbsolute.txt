@@ -177,7 +177,10 @@ C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compress
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\dotnet-bundle.dll
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\NUglify.dll
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\tlndax1wju-w4gn88f50b.gz
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\qo7w50eaya-qwrok9hwq3.gz
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\4ak7b3g1wg-86jl59tzva.gz
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\l3ess2cvze-hv8o55v4d3.gz
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\BuildCompany.sourcelink.json
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\tlndax1wju-fauodyqrnr.gz
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\qo7w50eaya-piblgp00r4.gz
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\Npgsql.dll
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

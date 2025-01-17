@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5XWXLZ9YdHw=",
+  "dgSpecHash": "DvKrNnQxUgA=",
   "success": true,
   "projectFilePath": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\BuildCompany.csproj",
   "expectedPackageFiles": [
@@ -59,6 +59,8 @@
     "C:\\Users\\emirn\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\emirn\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\emirn\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\emirn\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\emirn\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.2\\npgsql.entityframeworkcore.postgresql.9.0.2.nupkg.sha512",
     "C:\\Users\\emirn\\.nuget\\packages\\nuglify\\1.5.14\\nuglify.1.5.14.nupkg.sha512",
     "C:\\Users\\emirn\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
     "C:\\Users\\emirn\\.nuget\\packages\\serilog.aspnetcore\\9.0.0\\serilog.aspnetcore.9.0.0.nupkg.sha512",

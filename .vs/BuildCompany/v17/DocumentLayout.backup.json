@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 327,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -46,8 +50,7 @@
               "RelativeToolTip": "BuildCompany\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:22:35.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:22:35.597Z"
             },
             {
               "$type": "Document",
@@ -59,8 +62,7 @@
               "RelativeToolTip": "BuildCompany\\compilerconfig.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T19:31:14.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:31:14.411Z"
             },
             {
               "$type": "Document",
@@ -72,8 +74,7 @@
               "RelativeToolTip": "BuildCompany\\Views\\Shared\\_CssPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T19:37:20.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:37:20.3Z"
             },
             {
               "$type": "Document",
@@ -85,8 +86,7 @@
               "RelativeToolTip": "BuildCompany\\Views\\Shared\\_ScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T19:39:13.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:39:13.275Z"
             },
             {
               "$type": "Document",
