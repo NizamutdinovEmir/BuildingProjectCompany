@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\wwwroot\\js\\scripts.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\wwwroot\\js\\scripts.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\views\\shared\\_scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\views\\shared\\_scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\views\\shared\\_csspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\views\\shared\\_csspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\compilerconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\compilerconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Program.cs",
+              "RelativeDocumentMoniker": "BuildCompany\\Program.cs",
+              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Program.cs",
+              "RelativeToolTip": "BuildCompany\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:22:35.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "compilerconfig.json",
+              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\compilerconfig.json",
+              "RelativeDocumentMoniker": "BuildCompany\\compilerconfig.json",
+              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\compilerconfig.json",
+              "RelativeToolTip": "BuildCompany\\compilerconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T19:31:14.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_CssPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Shared\\_CssPartial.cshtml",
+              "RelativeDocumentMoniker": "BuildCompany\\Views\\Shared\\_CssPartial.cshtml",
+              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Shared\\_CssPartial.cshtml",
+              "RelativeToolTip": "BuildCompany\\Views\\Shared\\_CssPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T19:37:20.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Shared\\_ScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BuildCompany\\Views\\Shared\\_ScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Shared\\_ScriptsPartial.cshtml",
+              "RelativeToolTip": "BuildCompany\\Views\\Shared\\_ScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T19:39:13.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scripts.min.js",
+              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.min.js",
+              "RelativeDocumentMoniker": "BuildCompany\\wwwroot\\js\\scripts.min.js",
+              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.min.js",
+              "RelativeToolTip": "BuildCompany\\wwwroot\\js\\scripts.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-15T19:43:37.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bundleconfig.json",
+              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\bundleconfig.json",
+              "RelativeDocumentMoniker": "BuildCompany\\bundleconfig.json",
+              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\bundleconfig.json",
+              "RelativeToolTip": "BuildCompany\\bundleconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T19:38:38.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

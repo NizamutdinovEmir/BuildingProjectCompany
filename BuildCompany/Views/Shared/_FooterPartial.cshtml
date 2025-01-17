@@ -1,0 +1,17 @@
+@inject IConfiguration config
+@{
+	AppConfig? appConfig = config.GetSection("Project").Get<AppConfig>();
+}
+<div id="footer-wrapper">
+	<footer id="footer" class="container">
+		<div class="row">
+			<div class="col-12">
+				<div id="copyright">
+					<ul class="menu">
+						<li>&copy; @appConfig?.Company.CompanyName</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
