@@ -12,7 +12,6 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.1",
           "Microsoft.EntityFrameworkCore.Design": "9.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1",
-          "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.2",
           "Serilog.AspNetCore": "9.0.0",
           "StyleCop.Analyzers": "1.2.0-beta.556",
           "System.Reflection": "4.3.0"
@@ -780,30 +779,6 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.1.19813"
-          }
-        }
-      },
-      "Npgsql/9.0.2": {
-        "dependencies": {
-          "Microsoft.Extensions.Logging.Abstractions": "9.0.1"
-        },
-        "runtime": {
-          "lib/net8.0/Npgsql.dll": {
-            "assemblyVersion": "9.0.2.0",
-            "fileVersion": "9.0.2.0"
-          }
-        }
-      },
-      "Npgsql.EntityFrameworkCore.PostgreSQL/9.0.2": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "9.0.1",
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.1",
-          "Npgsql": "9.0.2"
-        },
-        "runtime": {
-          "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
-            "assemblyVersion": "9.0.2.0",
-            "fileVersion": "9.0.2.0"
           }
         }
       },
@@ -1849,20 +1824,6 @@
       "sha512": "sha512-U82mHQSKaIk+lpSVCbWYKNavmNH1i5xrExDEquU1i6I5pV6UMOqRnJRSlKO3cMPfcpp0RgDY+8jUXHdQ4IfXvw==",
       "path": "newtonsoft.json/9.0.1",
       "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
-    },
-    "Npgsql/9.0.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-hCbO8box7i/XXiTFqCJ3GoowyLqx3JXxyrbOJ6om7dr+eAknvBNhhUHeJVGAQo44sySZTfdVffp4BrtPeLZOAA==",
-      "path": "npgsql/9.0.2",
-      "hashPath": "npgsql.9.0.2.nupkg.sha512"
-    },
-    "Npgsql.EntityFrameworkCore.PostgreSQL/9.0.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-cYdOGplIvr9KgsG8nJ8xnzBTImeircbgetlzS1OmepS5dAQW6PuGpVrLOKBNEwEvGYZPsV8037X5vZ/Dmpwz7Q==",
-      "path": "npgsql.entityframeworkcore.postgresql/9.0.2",
-      "hashPath": "npgsql.entityframeworkcore.postgresql.9.0.2.nupkg.sha512"
     },
     "NUglify/1.5.14": {
       "type": "package",

@@ -182,5 +182,3 @@ C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compress
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\BuildCompany.sourcelink.json
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\tlndax1wju-fauodyqrnr.gz
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\qo7w50eaya-piblgp00r4.gz
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\Npgsql.dll
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

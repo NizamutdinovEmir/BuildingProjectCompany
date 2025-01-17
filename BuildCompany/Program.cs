@@ -1,4 +1,6 @@
 using BuildCompany.Domain;
+using BuildCompany.Domain.Repositories.Abstract;
+using BuildCompany.Domain.Repositories.EntityFramework;
 using BuildCompany.Infrastructure;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -26,9 +28,12 @@ public class Program
         AppConfig config = configuration.GetSection("Project").Get<AppConfig>()!;
 
         // Подключаемся к бд
-        builder.Services.AddDbContext<AppDbContext>(options =>
-                options.UseNpgsql(builder.Configuration["Project:DataBase:ConnectionString"])
+        builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer(config.DataBase.ConnectionString)
             .ConfigureWarnings(warnings => warnings.Ignore(RelationalEventId.PendingModelChangesWarning)));
+
+        builder.Services.AddTransient<IServiceCategoriesRepository, EFServiceCategoriesRepository>();
+        builder.Services.AddTransient<IServicesRepository, EFServicesRepository>();
+        builder.Services.AddTransient<DataManager>();
 
         // Настраиваем Identity систему
         builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
