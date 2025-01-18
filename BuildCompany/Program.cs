@@ -52,7 +52,7 @@ public class Program
         {
             options.Cookie.Name = "BuildCompanyAuth";
             options.Cookie.HttpOnly = true;
-            options.LoginPath = "/admin/login";
+            options.LoginPath = "/account/login";
             options.LogoutPath = "/admin/accessdenied/";
             options.SlidingExpiration = true;
         });
