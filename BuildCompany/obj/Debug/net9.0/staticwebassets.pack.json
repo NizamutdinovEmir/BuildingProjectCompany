@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\css\\main.min.css"
     },
     {
-      "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\css\\main.scss",
-      "PackagePath": "staticwebassets\\css\\main.scss"
-    },
-    {
       "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\bg01.png",
       "PackagePath": "staticwebassets\\img\\bg01.png"
     },

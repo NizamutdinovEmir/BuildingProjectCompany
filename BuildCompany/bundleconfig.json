@@ -4,10 +4,10 @@
     "inputFiles": [
       "wwwroot/js/jquery.min.js",
       "wwwroot/js/util.js",
-      "wwwroot/js/main.js",
-      "wwwroot/js/jquery.dropotron.min.js",
+      "wwwroot/js/breakpoints.min.js",
       "wwwroot/js/browser.min.js",
-      "wwwroot/js/breakpoints.min.js"
+      "wwwroot/js/jquery.dropotron.min.js",
+      "wwwroot/js/main.js"
     ]
   }
 ]
