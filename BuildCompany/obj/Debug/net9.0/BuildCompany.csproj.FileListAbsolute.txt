@@ -180,5 +180,5 @@ C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\NUglify.
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\4ak7b3g1wg-86jl59tzva.gz
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\l3ess2cvze-hv8o55v4d3.gz
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\BuildCompany.sourcelink.json
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\tlndax1wju-sjuxw5fuoz.gz
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\qo7w50eaya-wvei4awr64.gz
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\tlndax1wju-rxt6fow6kl.gz
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\qo7w50eaya-xz33qi1xf4.gz

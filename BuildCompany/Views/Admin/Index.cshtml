@@ -1,3 +1,72 @@
+ @{
+      string string_title = "Панель администратора";
+      ViewBag.Title = string_title;
+      IEnumerable<ServiceCategory>? serviceCategories = ViewBag.ServiceCategories;
+      IEnumerable<Service>? services= ViewBag.Services;
+}
 <div>
-      WORKS!
+    <h2>@string_title</h2>
+    <div>
+        <h3>Категория услуг</h3>
+        <div class="div-box">
+            <a asp-area="" asp-controller="Admin" asp-action="ServiceCategoriesEdit" asp-route-id="">Добавить категорию услуг</a>
+        </div>
+        @if (serviceCategories != null)
+        {
+            <div>
+                @foreach (ServiceCategory entity in serviceCategories)
+                {
+                    <div>
+                        <a asp-area="" asp-controller="Admin" asp-action="ServiceCategoriesEdit" asp-route-id="@entity.Id">Редактировать</a>
+                        |
+                        <form style="display: inline-block;" id="form-category-@entity.Id" asp-area=""
+                              asp-controller="Admin" asp-action="ServiceCategoriesDelete" method="post">
+                            <input type="hidden" name="Id" value="@entity.Id" />
+                            <a href="#" onclick="document.getElementById('form-category-@entity.Id').submit();">Удалить</a>
+                        </form>
+                        |
+                        <span>
+                            @($"{entity.Name}")
+                        </span>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+    <div>
+        <h3>Наши услуги</h3>
+        <div class="div-box">
+            <a asp-area="" asp-controller="Admin" asp-action="ServicesEdit" asp-route-id="">Добавить услугу</a>
+        </div>
+        @if (services.Any() && services != null)
+        {
+            <div>
+                @foreach (Service entity in services)
+                {
+                    <div>
+                        <a asp-area="" asp-controller="Admin" asp-action="ServicesEdit" asp-route-id="@entity.Id">Редактировать</a>
+                        |
+                        <form style="display: inline-block;" id="form-services-@entity.Id" asp-area=""
+                              asp-controller="Admin" asp-action="ServicesDelete" method="post">
+                            <input type="hidden" name="id" value="@entity.Id" />
+                            <a href="#" onclick="document.getElementById('form-services-@entity.Id').submit();">Удалить</a>
+                        </form>
+                        |
+                        <span>
+                            @($"{entity.ServiceCategory?.Name}") |
+                            <a asp-area="" asp-controller="Services" asp-action="Show" asp-route-id="@entity.Id">
+                                @($"{entity.Name}")
+                            </a>
+                        </span>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+    
+    <div class="div-box">
+        <form asp-area="" asp-controller="Account" asp-action="Logout" method="post">
+            <input type="submit" value="Выйти"/>
+        </form>
+    </div>
 </div>

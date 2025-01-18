@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "BuildCompany\\Program.cs",
               "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Program.cs",
               "RelativeToolTip": "BuildCompany\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T19:22:35.597Z",
               "EditorCaption": ""
@@ -105,11 +105,15 @@
         },
         {
           "DockedWidth": 244,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -119,7 +123,7 @@
               "RelativeDocumentMoniker": "BuildCompany\\wwwroot\\scss\\main.scss",
               "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\scss\\main.scss",
               "RelativeToolTip": "BuildCompany\\wwwroot\\scss\\main.scss",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAuwE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHgFAAAAAAAAAAAAAIYFAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2025-01-18T11:03:34.778Z",
               "EditorCaption": ""
@@ -132,14 +136,10 @@
               "RelativeDocumentMoniker": "BuildCompany\\wwwroot\\css\\main.css",
               "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\css\\main.css",
               "RelativeToolTip": "BuildCompany\\wwwroot\\css\\main.css",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-18T11:02:58.96Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

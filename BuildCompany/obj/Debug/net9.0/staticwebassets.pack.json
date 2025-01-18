@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\css\\main.min.css"
     },
     {
+      "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\GRnqpLOXH5s.jpg",
+      "PackagePath": "staticwebassets\\img\\GRnqpLOXH5s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\WAZzLQvxuO8.jpg",
+      "PackagePath": "staticwebassets\\img\\WAZzLQvxuO8.jpg"
+    },
+    {
       "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\bg01.png",
       "PackagePath": "staticwebassets\\img\\bg01.png"
     },
@@ -29,6 +37,10 @@
       "PackagePath": "staticwebassets\\img\\bg04.png"
     },
     {
+      "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\ced4a67188ac30a883d0b54d774c8495.jpg",
+      "PackagePath": "staticwebassets\\img\\ced4a67188ac30a883d0b54d774c8495.jpg"
+    },
+    {
       "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
@@ -39,6 +51,10 @@
     {
       "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\main.jpg",
       "PackagePath": "staticwebassets\\img\\main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\photo_2025-01-07_14-05-48 (2).jpg",
+      "PackagePath": "staticwebassets\\img\\photo_2025-01-07_14-05-48 (2).jpg"
     },
     {
       "Id": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\pic01.jpg",

@@ -19,14 +19,14 @@ public class AccountController : Controller
     {
         await _signInManager.SignOutAsync();
 
-        if (returnUrl != null) ViewBag.ReturnUrl = returnUrl;
+        ViewBag.ReturnUrl = returnUrl!;
         return View(new LoginViewModel());
     }
 
     [HttpPost]
     public async Task<IActionResult> Login(LoginViewModel model, string? returnUrl)
     {
-        if (returnUrl != null) ViewBag.ReturnUrl = returnUrl;
+        ViewBag.ReturnUrl = returnUrl!;
 
         if (!ModelState.IsValid)
         {

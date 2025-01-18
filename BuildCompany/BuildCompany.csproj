@@ -34,7 +34,6 @@
 
     <ItemGroup>
       <Folder Include="Models\ViewComponents\" />
-      <Folder Include="Pages\" />
       <Folder Include="wwwroot\scss\" />
     </ItemGroup>
 
