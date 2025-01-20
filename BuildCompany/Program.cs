@@ -5,6 +5,7 @@ using BuildCompany.Infrastructure;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
+using Serilog;
 
 namespace BuildCompany;
 
@@ -60,8 +61,19 @@ public class Program
         // Поключаем контроллеры
         builder.Services.AddControllersWithViews();
 
+        // Настраиваем Serilog
+        builder.Host.UseSerilog((context, configuration) =>
+            configuration.ReadFrom.Configuration(context.Configuration));
+
         // Собираем конфигурацию
         WebApplication app = builder.Build();
+
+        app.UseSerilogRequestLogging();
+
+        if (app.Environment.IsDevelopment())
+        {
+            app.UseDeveloperExceptionPage();
+        }
 
         // Статичные файлы (js, css..)
         app.UseStaticFiles();

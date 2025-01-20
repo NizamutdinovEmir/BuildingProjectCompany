@@ -8,11 +8,13 @@ namespace BuildCompany.Contollers.Admin;
 public partial class AdminController : Controller
 {
     private readonly DataManager _dataManager;
+    private readonly ILogger<AdminController> _logger;
 
-    public AdminController(DataManager dataManager, IWebHostEnvironment hostEnvironment)
+    public AdminController(DataManager dataManager, IWebHostEnvironment hostEnvironment, ILogger<AdminController> logger)
     {
         _dataManager = dataManager;
         _hostEnvironment = hostEnvironment;
+        _logger = logger;
     }
 
     public async Task<IActionResult> Index()

@@ -178,8 +178,7 @@ C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\dotnet-b
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\bin\Debug\net9.0\NUglify.dll
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\BuildCompany.sourcelink.json
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\tlndax1wju-rxt6fow6kl.gz
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\qo7w50eaya-xz33qi1xf4.gz
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\4ak7b3g1wg-11h3950ge9.gz
 C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\l3ess2cvze-ohiflohkts.gz
-C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\tlndax1wju-xs7krzxkk8.gz
+C:\Users\emirn\RiderProjects\BuildCompany\BuildCompany\obj\Debug\net9.0\compressed\qo7w50eaya-9oweo8txoc.gz

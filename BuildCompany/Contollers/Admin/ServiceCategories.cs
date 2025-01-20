@@ -23,6 +23,7 @@ public partial class AdminController
         }
 
         await _dataManager.ServiceCategoriesRepository.SaveServiceCategoryAsync(entity);
+        _logger.LogInformation($"Добавлена/обновлена категория услуги с ID: {entity.Id}");
 
         return RedirectToAction("Index");
     }
@@ -31,6 +32,8 @@ public partial class AdminController
     public async Task<IActionResult> ServiceCategoriesDelete(int id)
     {
         await _dataManager.ServiceCategoriesRepository.DeleteServiceCategoryByIdAsync(id);
+        _logger.LogInformation($"Удалена категория услуги с ID: {id}");
+
         return RedirectToAction("Index");
     }
 }

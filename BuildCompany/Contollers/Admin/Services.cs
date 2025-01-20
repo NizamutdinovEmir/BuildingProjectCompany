@@ -32,6 +32,7 @@ public partial class AdminController
         }
 
         await _dataManager.ServicesRepository.SaveServicesAsync(entity);
+        _logger.LogInformation($"Добавлена/обновлена услуга с ID: {entity.Id}");
 
         return RedirectToAction("Index");
     }
@@ -40,6 +41,8 @@ public partial class AdminController
     public async Task<IActionResult> ServicesDelete(int id)
     {
         await _dataManager.ServicesRepository.DeleteServicesByIdAsync(id);
+        _logger.LogInformation($"Удалена услуга с ID: {id}");
+
         return RedirectToAction("Index");
     }
 }
