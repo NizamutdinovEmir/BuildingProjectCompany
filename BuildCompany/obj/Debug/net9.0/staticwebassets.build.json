@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DMitSgHnKHTze12E7q8NwJ3focaCz+PvtKYh0EgRZCw=",
+  "Hash": "7V72W/KA2bhU5tM9kIRY9YCECoDmqN3Zgxy5ZZR7U3U=",
   "Source": "BuildCompany",
   "BasePath": "_content/BuildCompany",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-86jl59tzva.gz",
+      "Identity": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-11h3950ge9.gz",
       "SourceId": "BuildCompany",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BuildCompany",
-      "RelativePath": "js/scripts#[.{fingerprint=86jl59tzva}]?.js.gz",
+      "RelativePath": "js/scripts#[.{fingerprint=11h3950ge9}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "71sdyt6rqb",
-      "Integrity": "1RoJ3JG/xDu6UiAYe3I3pAAJ96g16tBV9/N/g49KuaQ=",
+      "Fingerprint": "n1vx5la5xm",
+      "Integrity": "lWtR4pvXdjfVe491PmvA6q4pEL7ewAETC1kPzqYZfNg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.js"
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\jquery.dropotron.min.js"
     },
     {
-      "Identity": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-hv8o55v4d3.gz",
+      "Identity": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-ohiflohkts.gz",
       "SourceId": "BuildCompany",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BuildCompany",
-      "RelativePath": "js/scripts.min#[.{fingerprint=hv8o55v4d3}]?.js.gz",
+      "RelativePath": "js/scripts.min#[.{fingerprint=ohiflohkts}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sdsxoueux7",
-      "Integrity": "8L1Zs8EwuyV1SldHIVouZdlrVK35prG1uInJN+h9Mrg=",
+      "Fingerprint": "4nby41y7gc",
+      "Integrity": "kIhSNupP3ifPJkJHjYpdp8I3LrqiYBuJR6EaKDz9Ino=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.min.js"
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "86jl59tzva",
-      "Integrity": "UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o=",
+      "Fingerprint": "11h3950ge9",
+      "Integrity": "C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\scripts.js"
@@ -934,8 +934,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hv8o55v4d3",
-      "Integrity": "E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ=",
+      "Fingerprint": "ohiflohkts",
+      "Integrity": "pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\scripts.min.js"
@@ -5584,13 +5584,13 @@
       ]
     },
     {
-      "Route": "js/scripts.86jl59tzva.js",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-86jl59tzva.gz",
+      "Route": "js/scripts.11h3950ge9.js",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-11h3950ge9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000026740113"
+          "Quality": "0.000026742973"
         }
       ],
       "ResponseHeaders": [
@@ -5600,15 +5600,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37396"
+          "Value": "37392"
         },
         {
           "Name": "ETag",
-          "Value": "\"1RoJ3JG/xDu6UiAYe3I3pAAJ96g16tBV9/N/g49KuaQ=\""
+          "Value": "\"lWtR4pvXdjfVe491PmvA6q4pEL7ewAETC1kPzqYZfNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:55 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5628,13 +5628,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o=\""
+          "Value": "W/\"C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "86jl59tzva"
+          "Value": "11h3950ge9"
         },
         {
           "Name": "label",
@@ -5642,12 +5642,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o="
+          "Value": "sha256-C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w="
         }
       ]
     },
     {
-      "Route": "js/scripts.86jl59tzva.js",
+      "Route": "js/scripts.11h3950ge9.js",
       "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5665,11 +5665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o=\""
+          "Value": "\"C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:55 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5679,7 +5679,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "86jl59tzva"
+          "Value": "11h3950ge9"
         },
         {
           "Name": "label",
@@ -5687,13 +5687,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o="
+          "Value": "sha256-C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w="
         }
       ]
     },
     {
-      "Route": "js/scripts.86jl59tzva.js.gz",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-86jl59tzva.gz",
+      "Route": "js/scripts.11h3950ge9.js.gz",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-11h3950ge9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5702,7 +5702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37396"
+          "Value": "37392"
         },
         {
           "Name": "Content-Type",
@@ -5710,11 +5710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1RoJ3JG/xDu6UiAYe3I3pAAJ96g16tBV9/N/g49KuaQ=\""
+          "Value": "\"lWtR4pvXdjfVe491PmvA6q4pEL7ewAETC1kPzqYZfNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:55 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5732,7 +5732,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "86jl59tzva"
+          "Value": "11h3950ge9"
         },
         {
           "Name": "label",
@@ -5740,18 +5740,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1RoJ3JG/xDu6UiAYe3I3pAAJ96g16tBV9/N/g49KuaQ="
+          "Value": "sha256-lWtR4pvXdjfVe491PmvA6q4pEL7ewAETC1kPzqYZfNg="
         }
       ]
     },
     {
       "Route": "js/scripts.js",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-86jl59tzva.gz",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-11h3950ge9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000026740113"
+          "Quality": "0.000026742973"
         }
       ],
       "ResponseHeaders": [
@@ -5761,15 +5761,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37396"
+          "Value": "37392"
         },
         {
           "Name": "ETag",
-          "Value": "\"1RoJ3JG/xDu6UiAYe3I3pAAJ96g16tBV9/N/g49KuaQ=\""
+          "Value": "\"lWtR4pvXdjfVe491PmvA6q4pEL7ewAETC1kPzqYZfNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:55 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5789,13 +5789,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o=\""
+          "Value": "W/\"C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o="
+          "Value": "sha256-C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w="
         }
       ]
     },
@@ -5818,11 +5818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o=\""
+          "Value": "\"C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:55 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5832,13 +5832,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UM0t1QXF4gZ1EgjXKp50ik6ICF1xmLrV5+rdOm52X6o="
+          "Value": "sha256-C6rLz/VbcIy9ldAiSt+/jq1X29AJ6wNypEaZBwAua1w="
         }
       ]
     },
     {
       "Route": "js/scripts.js.gz",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-86jl59tzva.gz",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\4ak7b3g1wg-11h3950ge9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5847,7 +5847,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37396"
+          "Value": "37392"
         },
         {
           "Name": "Content-Type",
@@ -5855,11 +5855,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1RoJ3JG/xDu6UiAYe3I3pAAJ96g16tBV9/N/g49KuaQ=\""
+          "Value": "\"lWtR4pvXdjfVe491PmvA6q4pEL7ewAETC1kPzqYZfNg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:55 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5877,18 +5877,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1RoJ3JG/xDu6UiAYe3I3pAAJ96g16tBV9/N/g49KuaQ="
+          "Value": "sha256-lWtR4pvXdjfVe491PmvA6q4pEL7ewAETC1kPzqYZfNg="
         }
       ]
     },
     {
-      "Route": "js/scripts.min.hv8o55v4d3.js",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-hv8o55v4d3.gz",
+      "Route": "js/scripts.min.js",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-ohiflohkts.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000027474037"
+          "Quality": "0.000027457441"
         }
       ],
       "ResponseHeaders": [
@@ -5898,19 +5898,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36397"
+          "Value": "36419"
         },
         {
           "Name": "ETag",
-          "Value": "\"8L1Zs8EwuyV1SldHIVouZdlrVK35prG1uInJN+h9Mrg=\""
+          "Value": "\"kIhSNupP3ifPJkJHjYpdp8I3LrqiYBuJR6EaKDz9Ino=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:56 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:43 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -5926,26 +5926,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ=\""
+          "Value": "W/\"pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "hv8o55v4d3"
-        },
-        {
-          "Name": "label",
-          "Value": "js/scripts.min.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ="
+          "Value": "sha256-pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I="
         }
       ]
     },
     {
-      "Route": "js/scripts.min.hv8o55v4d3.js",
+      "Route": "js/scripts.min.js",
       "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.min.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5963,11 +5955,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ=\""
+          "Value": "\"pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:56 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.min.js.gz",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-ohiflohkts.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kIhSNupP3ifPJkJHjYpdp8I3LrqiYBuJR6EaKDz9Ino=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 10:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kIhSNupP3ifPJkJHjYpdp8I3LrqiYBuJR6EaKDz9Ino="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.min.ohiflohkts.js",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-ohiflohkts.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000027457441"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36419"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kIhSNupP3ifPJkJHjYpdp8I3LrqiYBuJR6EaKDz9Ino=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 10:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ohiflohkts"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.min.ohiflohkts.js",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 10:47:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5977,7 +6114,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hv8o55v4d3"
+          "Value": "ohiflohkts"
         },
         {
           "Name": "label",
@@ -5985,13 +6122,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ="
+          "Value": "sha256-pE9hIw7pBdyZIhTOAYwdiUw6MTxnnmQXELBaqq01Z8I="
         }
       ]
     },
     {
-      "Route": "js/scripts.min.hv8o55v4d3.js.gz",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-hv8o55v4d3.gz",
+      "Route": "js/scripts.min.ohiflohkts.js.gz",
+      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-ohiflohkts.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6000,7 +6137,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36397"
+          "Value": "36419"
         },
         {
           "Name": "Content-Type",
@@ -6008,11 +6145,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8L1Zs8EwuyV1SldHIVouZdlrVK35prG1uInJN+h9Mrg=\""
+          "Value": "\"kIhSNupP3ifPJkJHjYpdp8I3LrqiYBuJR6EaKDz9Ino=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:56 GMT"
+          "Value": "Mon, 20 Jan 2025 10:47:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6030,7 +6167,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hv8o55v4d3"
+          "Value": "ohiflohkts"
         },
         {
           "Name": "label",
@@ -6038,144 +6175,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8L1Zs8EwuyV1SldHIVouZdlrVK35prG1uInJN+h9Mrg="
-        }
-      ]
-    },
-    {
-      "Route": "js/scripts.min.js",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-hv8o55v4d3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000027474037"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "36397"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8L1Zs8EwuyV1SldHIVouZdlrVK35prG1uInJN+h9Mrg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ="
-        }
-      ]
-    },
-    {
-      "Route": "js/scripts.min.js",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\js\\scripts.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "105046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-E3TUIwIUItXdjWI1wj5oBUa5tqDR1emm3eTK2mjrJaQ="
-        }
-      ]
-    },
-    {
-      "Route": "js/scripts.min.js.gz",
-      "AssetFile": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\obj\\Debug\\net9.0\\compressed\\l3ess2cvze-hv8o55v4d3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "36397"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8L1Zs8EwuyV1SldHIVouZdlrVK35prG1uInJN+h9Mrg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 19:38:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8L1Zs8EwuyV1SldHIVouZdlrVK35prG1uInJN+h9Mrg="
+          "Value": "sha256-kIhSNupP3ifPJkJHjYpdp8I3LrqiYBuJR6EaKDz9Ino="
         }
       ]
     },
