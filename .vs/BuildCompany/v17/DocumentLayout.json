@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\wwwroot\\scss\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\views\\services\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\views\\services\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\contollers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\contollers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\views\\shared\\_csspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\views\\shared\\_csspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -39,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\contollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\views\\shared\\_csspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\views\\shared\\_csspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|c:\\users\\emirn\\riderprojects\\buildcompany\\buildcompany\\views\\shared\\_scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8AA52DA8-49EE-467E-89EA-C769AB523874}|BuildCompany\\BuildCompany.csproj|solutionrelative:buildcompany\\views\\shared\\_scriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -66,7 +70,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "_CssPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Shared\\_CssPartial.cshtml",
               "RelativeDocumentMoniker": "BuildCompany\\Views\\Shared\\_CssPartial.cshtml",
@@ -79,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Program.cs",
               "RelativeDocumentMoniker": "BuildCompany\\Program.cs",
@@ -87,12 +91,11 @@
               "RelativeToolTip": "BuildCompany\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:22:35.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:22:35.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_ScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Shared\\_ScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BuildCompany\\Views\\Shared\\_ScriptsPartial.cshtml",
@@ -100,12 +103,11 @@
               "RelativeToolTip": "BuildCompany\\Views\\Shared\\_ScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T19:39:13.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T19:39:13.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "compilerconfig.json",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\compilerconfig.json",
               "RelativeDocumentMoniker": "BuildCompany\\compilerconfig.json",
@@ -119,7 +121,7 @@
         },
         {
           "DockedWidth": 390,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -127,15 +129,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main.min.css",
-              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\css\\main.min.css",
-              "RelativeDocumentMoniker": "BuildCompany\\wwwroot\\css\\main.min.css",
-              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\css\\main.min.css",
-              "RelativeToolTip": "BuildCompany\\wwwroot\\css\\main.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB9dwAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-20T12:10:27.413Z",
+              "DocumentIndex": 1,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Services\\Show.cshtml",
+              "RelativeDocumentMoniker": "BuildCompany\\Views\\Services\\Show.cshtml",
+              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Services\\Show.cshtml",
+              "RelativeToolTip": "BuildCompany\\Views\\Services\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T12:45:19.214Z",
               "EditorCaption": ""
             },
             {
@@ -144,33 +146,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "main.min.css",
+              "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\css\\main.min.css",
+              "RelativeDocumentMoniker": "BuildCompany\\wwwroot\\css\\main.min.css",
+              "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\css\\main.min.css",
+              "RelativeToolTip": "BuildCompany\\wwwroot\\css\\main.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB9dwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-20T12:10:27.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Services\\Index.cshtml",
               "RelativeDocumentMoniker": "BuildCompany\\Views\\Services\\Index.cshtml",
               "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Services\\Index.cshtml",
               "RelativeToolTip": "BuildCompany\\Views\\Services\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAACRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-20T11:22:07.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ServicesController.cs",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Contollers\\ServicesController.cs",
               "RelativeDocumentMoniker": "BuildCompany\\Contollers\\ServicesController.cs",
               "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Contollers\\ServicesController.cs",
               "RelativeToolTip": "BuildCompany\\Contollers\\ServicesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T11:22:02.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Contacts.cshtml",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Views\\Home\\Contacts.cshtml",
               "RelativeDocumentMoniker": "BuildCompany\\Views\\Home\\Contacts.cshtml",
@@ -178,12 +192,11 @@
               "RelativeToolTip": "BuildCompany\\Views\\Home\\Contacts.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T11:07:04.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T11:07:04.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "main.css",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\css\\main.css",
               "RelativeDocumentMoniker": "BuildCompany\\wwwroot\\css\\main.css",
@@ -191,8 +204,7 @@
               "RelativeToolTip": "BuildCompany\\wwwroot\\css\\main.css",
               "ViewState": "AgIAAK8HAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-18T11:02:58.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T11:02:58.96Z"
             },
             {
               "$type": "Document",
@@ -202,14 +214,14 @@
               "RelativeDocumentMoniker": "BuildCompany\\wwwroot\\scss\\main.scss",
               "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\wwwroot\\scss\\main.scss",
               "RelativeToolTip": "BuildCompany\\wwwroot\\scss\\main.scss",
-              "ViewState": "AgIAAHwFAAAAAAAAAAAmwIcFAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAHkFAAAAAAAAAAAmwJIFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2025-01-18T11:03:34.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\Contollers\\HomeController.cs",
               "RelativeDocumentMoniker": "BuildCompany\\Contollers\\HomeController.cs",
@@ -217,25 +229,23 @@
               "RelativeToolTip": "BuildCompany\\Contollers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T11:06:39.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T11:06:39.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BuildCompany",
+              "DocumentIndex": 7,
+              "Title": "BuildCompany.csproj",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\BuildCompany.csproj",
               "RelativeDocumentMoniker": "BuildCompany\\BuildCompany.csproj",
               "ToolTip": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\BuildCompany.csproj",
               "RelativeToolTip": "BuildCompany\\BuildCompany.csproj",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwCgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-20T10:49:30.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T10:49:30.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "bundleconfig.json",
               "DocumentMoniker": "C:\\Users\\emirn\\RiderProjects\\BuildCompany\\BuildCompany\\bundleconfig.json",
               "RelativeDocumentMoniker": "BuildCompany\\bundleconfig.json",
@@ -243,8 +253,7 @@
               "RelativeToolTip": "BuildCompany\\bundleconfig.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T10:45:35.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T10:45:35.25Z"
             }
           ]
         }
