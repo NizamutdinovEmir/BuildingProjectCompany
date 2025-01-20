@@ -11,9 +11,8 @@ AppConfig? appConfig = config.GetSection("Project").Get<AppConfig>();
                         @appConfig?.Company.CompanyName
                     </a>
                 </h1>
-                @* TODO: ViewComponent *@
+                @(await Component.InvokeAsync<MenuViewComponent>())
             </div>
         </header>
-
     </div>
 </div>
