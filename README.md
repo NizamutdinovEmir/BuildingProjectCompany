@@ -26,6 +26,20 @@ Design-Patterns:
 
 ## Project
 
+- Главная страница
+<img src="BuildCompany/wwwroot/img/layout.png" width="700" />
+
+- Услуги 
+
+<img src="BuildCompany/wwwroot/img/Services.png" width="700" />
+
+- Аутентификация
+<img src="BuildCompany/wwwroot/img/admin.png" width="700" />
+
+- Панель администратора
+<img src="BuildCompany/wwwroot/img/crud.png" width="700" />
+
+
 Веб-приложение на .NET с технологией ASP.NET Core MVC
 
 Создано для строительной компании, занимающейся продажей и строительством апартаментов в Дубае. Основная цель приложения — предоставление пользователям информации о доступных услугах и категориях услуг, а также управление данными услуг через административный интерфейс.
